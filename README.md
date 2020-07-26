@@ -1,4 +1,6 @@
-[FastoCloud](https://fastocloud.com)
+# We recommend to use [FastoCloud PRO Media Part version](https://fastocloud.com)
+
+[FastoCloud Media Part](https://fastocloud.com)
 ===================================
 [![FastoCloud Discord Server](https://discordapp.com/api/guilds/584773460585086977/widget.png?style=shield)](https://discord.gg/zeG32zC)
    
